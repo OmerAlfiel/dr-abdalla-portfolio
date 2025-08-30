@@ -29,3 +29,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
 ## Deployment
 
 Optimized for deployment on Vercel.
+
+## Preview
+
+![Website Preview](./public/screenshot.png)
