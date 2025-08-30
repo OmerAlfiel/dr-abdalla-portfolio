@@ -284,7 +284,7 @@ function PublicationCard({ publication }: PublicationCardProps) {
 					<DialogTitle className='text-xl leading-tight pr-8'>
 						{publication.title}
 					</DialogTitle>
-					<DialogDescription className='text-base'>
+					<div className='text-base text-muted-foreground mt-2'>
 						<div className='space-y-4 mt-4'>
 							<div className='flex flex-wrap gap-2'>
 								<Badge
@@ -334,7 +334,7 @@ function PublicationCard({ publication }: PublicationCardProps) {
 								</div>
 							</div>
 						</div>
-					</DialogDescription>
+					</div>
 				</DialogHeader>
 			</DialogContent>
 		</Dialog>

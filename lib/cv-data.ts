@@ -132,8 +132,20 @@ export const cvData: CVData = {
 			period: "2020 to Present",
 		},
 		{
+			title: "Examination Control Committee",
+			period: "2016 to 2021",
+		},
+		{
 			title: "E-learning Committee at college of computer-QU",
 			period: "2019 to Present",
+		},
+		{
+			title: "Rooms & Lab Committee, College of Computer-QU",
+			period: "2019 to Present",
+		},
+		{
+			title: "Sub-committee for Schedules at Qassim University",
+			period: "2019 to 2020",
 		},
 		{
 			title: "Quality Assurance and Accreditation prime, Computer college QU",
@@ -285,6 +297,63 @@ export const cvData: CVData = {
 			date: "Dec-2016",
 			location: "Qassim University - University Development Deanship",
 		},
+		{
+			title: "SPSS Application in Scientific Research",
+			date: "Dec-2017",
+			location: "Qassim University - University Development Deanship",
+		},
+		{
+			title: "Designing and creating courses using Blackboard LMS",
+			date: "2018",
+			location:
+				"Deanship of E-learning and Distance Education – Qassim University",
+		},
+		{
+			title: "Blackboard Collaborate Ultra",
+			date: "2018",
+			location:
+				"Deanship of E-learning and Distance Education – Qassim University",
+		},
+		{
+			title: "Electronic Exams and How to Use Them for E-learning",
+			date: "2017",
+			location:
+				"Deanship of E-learning and Distance Education – Qassim University",
+		},
+		{
+			title: "Blackboard Learning Management System",
+			date: "2017",
+			location:
+				"Deanship of E-learning and Distance Education – Qassim University",
+		},
+		{
+			title: "Using Blackboard for Higher Education",
+			date: "2018",
+			location:
+				"Deanship of E-learning and Distance Education – Qassim University",
+		},
+		{
+			title: "Python for Data Science and Machine Learning Bootcamp",
+			date: "2020-2021",
+			location: "Online course provided by Udemy.com",
+		},
+		{
+			title:
+				".NET Technology Specialist Framework 4.0 (Web App and Windows App’s, WCF, WPF, and Testing Tools)",
+			date: "2013",
+			location:
+				"Certified from Microsoft (U.S.A), Naresh Institute Of Technology, Ameerpet Hyderabad-India",
+		},
+		{
+			title: "CCNA (Routing And Switching)",
+			date: "2012",
+			location: "Net Expert of Information Technology, Hyderabad-India",
+		},
+		{
+			title: "Net Expert Of Information Technology",
+			date: "2012",
+			location: "Net Expert of Information Technology, Hyderabad-India",
+		},
 	],
 	conferences: [
 		{
@@ -293,6 +362,25 @@ export const cvData: CVData = {
 				"Efficient multipath model based cross layer routing techniques for Gauss Markov movable node management in MANET",
 			date: "2024/8/30",
 			location: "AIP Conference Proceedings",
+		},
+		{
+			type: "Conference",
+			title: "Facets of Business Excellence and Computational Intelligence",
+			date: "March 2012",
+			location:
+				"Vysya Institute of Management Studies and Technology, Salem, Tamilnadu – India",
+		},
+		{
+			type: "Seminar",
+			title: "ANVAYA 12 National Level Technical Meet",
+			date: "Oct-2012",
+			location: "Ethiraj College For Women – Chennai - India",
+		},
+		{
+			type: "Seminar",
+			title: "WAVSUP'12 National Level MCA",
+			date: "Oct-2012",
+			location: "Mahendra Institute of Technology, Tamilnadu-India",
 		},
 	],
 	teaching: [
