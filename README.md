@@ -32,4 +32,4 @@ Optimized for deployment on Vercel.
 
 ## Preview
 
-![Website Preview](./public/screenshot.png)
+![Website Preview](./public/screen.png)
