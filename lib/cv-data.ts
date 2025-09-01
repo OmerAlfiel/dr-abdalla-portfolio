@@ -25,6 +25,7 @@ export interface Publication {
 	status: "published" | "unpublished";
 	date: string;
 	venue?: string;
+	link?: string;
 }
 
 export interface Training {
@@ -159,6 +160,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "03 April 2025",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:kNdYIx-mwKoC"
 		},
 		{
 			title:
@@ -166,6 +168,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2025/4/1",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:3fE2CSJIrl8C"
 		},
 		{
 			title:
@@ -173,6 +176,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2025/2/1",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:hqOjcs7Dif8C"
 		},
 		{
 			title:
@@ -180,6 +184,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2025/2/1",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:_FxGoFyzp5QC"
 		},
 		{
 			title:
@@ -187,6 +192,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2025/1/25",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:8k81kl-MbHgC"
 		},
 		{
 			title:
@@ -194,6 +200,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2025",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:0EnyYjriUFMC"
 		},
 		{
 			title:
@@ -201,6 +208,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "1/1/2025",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:ufrVoPGSRksC"
 		},
 		{
 			title:
@@ -208,6 +216,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "1/1/2025",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:YsMSGLbcyi4C"
 		},
 		{
 			title:
@@ -215,6 +224,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "1/1/2025",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:W7OEmFMy1HYC"
 		},
 		{
 			title:
@@ -222,6 +232,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2024/8/30",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:UebtZRa9Y70C"
 		},
 		{
 			title:
@@ -229,6 +240,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2024/8/30",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:Se3iqnhoufwC"
 		},
 		{
 			title:
@@ -236,6 +248,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2024/7/23",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:roLk4NBRz8UC"
 		},
 		{
 			title:
@@ -243,6 +256,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2024/4/2",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:Tyk-4Ss8FVUC"
 		},
 		{
 			title:
@@ -250,6 +264,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2024",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:Y0pCki6q_DkC"
 		},
 		{
 			title:
@@ -257,6 +272,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2023",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:eQOLeE2rZwMC"
 		},
 		{
 			title:
@@ -264,6 +280,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2023",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:IjCSPb-OGe4C"
 		},
 		{
 			title:
@@ -271,6 +288,7 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "07 December 2021",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:qjMakFHDy7sC"
 		},
 		{
 			title:
@@ -278,13 +296,23 @@ export const cvData: CVData = {
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2022July",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:MXK_kJrjxJIC"
 		},
 		{
 			title: "Public-Key cryptography",
 			authors: "Abdalla Ibrahim Abdalla Musa",
 			status: "published",
 			date: "2012/3/9",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:KlAtU1dfN6UC"
 		},
+		{
+			title: "Improved Random Forest Algorithm for Cognitive Radio Networks' Distributed Channel and Resource Allocation Performance",
+			authors: "Abdalla Ibrahim Abdalla Musa",
+			status: "published",
+			date: "2023",
+			venue: "Journal of Logistics, Informatics and Service Science, Volume 10, Issue 3, Pages 98-106",
+			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:WF5omc3nYNoC"
+		}
 	],
 	training: [
 		{

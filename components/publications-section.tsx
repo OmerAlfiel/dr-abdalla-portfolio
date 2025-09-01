@@ -313,7 +313,6 @@ function PublicationCard({ publication }: PublicationCardProps) {
 									</h4>
 									<p className='text-muted-foreground'>{publication.date}</p>
 								</div>
-
 								{publication.venue && (
 									<div>
 										<h4 className='font-semibold text-foreground mb-1'>
@@ -322,17 +321,19 @@ function PublicationCard({ publication }: PublicationCardProps) {
 										<p className='text-muted-foreground'>{publication.venue}</p>
 									</div>
 								)}
-
-								<div>
-									<h4 className='font-semibold text-foreground mb-1'>
-										Abstract
-									</h4>
-									<p className='text-muted-foreground'>
-										Abstract not available. Please refer to the full text for
-										details.
-									</p>
-								</div>
 							</div>
+
+							{publication.link && (
+								<div className='pt-4'>
+									<Button 
+										onClick={() => window.open(publication.link, '_blank', 'noopener,noreferrer')}
+										className='w-full sm:w-auto'
+									>
+										<ExternalLink className='mr-2 h-4 w-4' />
+										View Full Paper
+									</Button>
+								</div>
+							)}
 						</div>
 					</div>
 				</DialogHeader>

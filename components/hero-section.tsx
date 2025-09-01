@@ -139,6 +139,17 @@ export function HeroSection() {
 									<Mail className='mr-2 h-5 w-5' />
 									Contact Me
 								</Button>
+								<Button
+									size='lg'
+									variant='outline'
+									onClick={() => window.open('https://www.researchgate.net/profile/Abdalla-Musa-2', '_blank', 'noopener,noreferrer')}
+									className='border-primary text-primary hover:bg-primary hover:text-primary-foreground bg-transparent cursor-pointer'>
+									<svg className='mr-2 h-5 w-5' viewBox='0 0 24 24' fill='currentColor'>
+										<path d='M8.5 11.5v.5h-2v-.5c0-.3.2-.5.5-.5h1c.3 0 .5.2.5.5z'/>
+										<path d='M12 1C5.9 1 1 5.9 1 12s4.9 11 11 11 11-4.9 11-11S18.1 1 12 1zm5.5 16.5h-2.8v-5.3c0-.7-.6-1.3-1.3-1.3h-1.8c-.7 0-1.3.6-1.3 1.3v5.3H7.5V8.8h2.8v1.7c.5-.8 1.6-1.5 2.5-1.5h2.2c1.4 0 2.5 1.1 2.5 2.5v6.5z'/>
+									</svg>
+									ResearchGate
+								</Button>
 							</div>
 						</div>
 
