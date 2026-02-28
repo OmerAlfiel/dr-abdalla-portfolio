@@ -315,6 +315,14 @@ export const cvData: CVData = {
 				"Journal of Logistics, Informatics and Service Science, Volume 10, Issue 3, Pages 98-106",
 			link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E8DweMQAAAAJ&citation_for_view=E8DweMQAAAAJ:WF5omc3nYNoC",
 		},
+		{
+  title: "A Comprehensive Review of Quantum Machine Learning Algorithms and Their Applications in Solving Real-World Computational Challenges",
+  authors: "Mohana Priya T, Abdalla Ibrahim Abdalla Musa, Poorana Senthilkumar S, Abdulnaser Rashid, Thirunavukkarasu V, Rajesh Kanna R",
+  status: "published",
+  date: "2026",
+  venue: "MSW MANAGEMENT - Multidisciplinary, Scientific Work and Management Journal, Vol. 36, Issue 1, Pages 2219-2223, ISSN: 1053-7899",
+  link: "https://mswmanagementj.com/index.php/home/article/view/1331"
+},
 	],
 	training: [
 		{
