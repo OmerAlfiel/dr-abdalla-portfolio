@@ -155,6 +155,14 @@ export const cvData: CVData = {
 	],
 	publications: [
 		{
+    title: "A Comprehensive Review of Artificial Intelligence Methods for Tumor Detection in Pancreatic Cancer Diagnosis",
+    authors: "Abdulnaser Rashid, Mohana Priya T, Abdalla Ibrahim Abdalla Musa, Suliman Mustafa Mohamed Abakar, Siti Sarah Maidin, Rajesh Kanna R, Mahalakshmi S B",
+    status: "published",
+    date: "March 18, 2026",
+    venue: "MSW MANAGEMENT - Multidisciplinary, Scientific Work and Management Journal, Vol. 36 Issue 1s, Pages: 394-396, ISSN: 1053-7899",
+    link: "https://mswmanagementj.com/index.php/home/article/view/1736",
+},
+		{
 			title:
 				"Indian Sign Language Detection and Translation Using Deep Learning",
 			authors: "Abdalla Ibrahim Abdalla Musa",
